@@ -1,0 +1,5 @@
+C:\ProyectosCSharp\Intermedio\Practica05\Polimorfismo\obj\Debug\Polimorfismo.csprojResolveAssemblyReference.cache
+C:\ProyectosCSharp\Intermedio\Practica05\Polimorfismo\bin\Debug\Polimorfismo.exe
+C:\ProyectosCSharp\Intermedio\Practica05\Polimorfismo\bin\Debug\Polimorfismo.pdb
+C:\ProyectosCSharp\Intermedio\Practica05\Polimorfismo\obj\Debug\Polimorfismo.exe
+C:\ProyectosCSharp\Intermedio\Practica05\Polimorfismo\obj\Debug\Polimorfismo.pdb

@@ -1,0 +1,5 @@
+C:\ProyectosCSharp\Intermedio\Practica05\Practica05\bin\Debug\Practica05.exe
+C:\ProyectosCSharp\Intermedio\Practica05\Practica05\bin\Debug\Practica05.pdb
+C:\ProyectosCSharp\Intermedio\Practica05\Practica05\obj\Debug\Practica05.csprojResolveAssemblyReference.cache
+C:\ProyectosCSharp\Intermedio\Practica05\Practica05\obj\Debug\Practica05.exe
+C:\ProyectosCSharp\Intermedio\Practica05\Practica05\obj\Debug\Practica05.pdb

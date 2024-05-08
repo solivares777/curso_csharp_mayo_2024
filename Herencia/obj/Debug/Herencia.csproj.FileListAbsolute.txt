@@ -1,0 +1,5 @@
+C:\ProyectosCSharp\Intermedio\Practica05\Herencia\bin\Debug\Herencia.exe
+C:\ProyectosCSharp\Intermedio\Practica05\Herencia\bin\Debug\Herencia.pdb
+C:\ProyectosCSharp\Intermedio\Practica05\Herencia\obj\Debug\Herencia.csprojResolveAssemblyReference.cache
+C:\ProyectosCSharp\Intermedio\Practica05\Herencia\obj\Debug\Herencia.exe
+C:\ProyectosCSharp\Intermedio\Practica05\Herencia\obj\Debug\Herencia.pdb
